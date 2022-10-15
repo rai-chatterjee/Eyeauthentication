@@ -1,4 +1,4 @@
-# Eyeauthentication
+## Eye Blink Authentication System
 
 An opencv project for using the blinking of eyes as a password
 
@@ -23,5 +23,5 @@ To unlock the password:
 
 And the password has matched and the script will exit. It is up to you to decide what actually gets unlocked. 
 
-# Installation 
+### Installation 
 WINDOWS: an anaconda environment .yml config file has been provided for easy dependency installation. 
