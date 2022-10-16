@@ -24,14 +24,17 @@ To unlock the password:
 And the password has matched and the script will exit. It is up to you to decide what actually gets unlocked. 
 
 ### Installation 
+
 WINDOWS: an anaconda environment .yml config file has been provided for easy dependency installation. 
 
-Software Specification :
-OS : Windows 10
-IDE: Anaconda 3 2020.02
-Python Version : 3.7 recommended
+SOFTWARE SPECIFICATIONS -
+ 
+ - OS : Windows 10
+ - IDE: Anaconda 3 2020.02
+ - Python Version : 3.7 recommended
 
 HOW TO USE THIS SOFTWARE -
+
 1. Download Anaconda from the below link
 https://repo.anaconda.com/archive/Anaconda3-2020.02-Windows-x86_64.exe
 2. Install the downloaded Anaconda application.
