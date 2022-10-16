@@ -50,5 +50,7 @@ https://repo.anaconda.com/archive/Anaconda3-2020.02-Windows-x86_64.exe
  -  pip install scipy
  -  pip install opencv-python
  -  pip install matplotlib
+ (if still any error occurs saying ..package not found, then type this command - pip install (name of the missing package))
+ 
  5. Through the commands, go inside of your project folder (eg: ... , cd Eyeauthentication)
  6. Type python eyeBlinkPassword.py and ENTER. 
