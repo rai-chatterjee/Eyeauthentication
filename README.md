@@ -25,3 +25,27 @@ And the password has matched and the script will exit. It is up to you to decide
 
 ### Installation 
 WINDOWS: an anaconda environment .yml config file has been provided for easy dependency installation. 
+
+Software Specification :
+OS : Windows 10
+IDE: Anaconda 3 2020.02
+Python Version : 3.7 recommended
+
+HOW TO USE THIS SOFTWARE -
+1. Download Anaconda from the below link
+https://repo.anaconda.com/archive/Anaconda3-2020.02-Windows-x86_64.exe
+2. Install the downloaded Anaconda application.
+3. Click on start, and search for Anaconda Prompt and click on it.
+4. Enter the following commands in the anaconda prompt cli to install few packages.
+ -  conda update conda
+ -  conda create -n myenv python=3.7
+ -  conda activate myenv
+ -  conda install -c conda-forge dlib
+ -  conda install pip
+
+ -  pip install imutils
+ -  pip install scipy
+ -  pip install opencv-python
+ -  pip install matplotlib
+ 5. Through the commands, go inside of your project folder (eg: ... , cd Eyeauthentication)
+ 6. Type python eyeBlinkPassword.py and ENTER. 
